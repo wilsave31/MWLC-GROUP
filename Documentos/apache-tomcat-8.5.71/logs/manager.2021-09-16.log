@@ -1,0 +1,8 @@
+16-Sep-2021 00:03:10.554 INFORMACIÓN [http-nio-8080-exec-20] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+16-Sep-2021 00:03:10.601 INFORMACIÓN [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/ParqueaderoWeb2021'
+16-Sep-2021 00:03:12.839 INFORMACIÓN [http-nio-8080-exec-22] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+16-Sep-2021 00:03:12.849 INFORMACIÓN [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/ParqueaderoWeb2021'
+16-Sep-2021 00:28:39.652 INFORMACIÓN [http-nio-8080-exec-32] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+16-Sep-2021 00:28:39.668 INFORMACIÓN [http-nio-8080-exec-23] org.apache.catalina.core.ApplicationContext.log Manager: restart: Reloading web application '/ParqueaderoWeb2021'
+16-Sep-2021 00:28:47.040 INFORMACIÓN [http-nio-8080-exec-31] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+16-Sep-2021 00:28:47.513 INFORMACIÓN [http-nio-8080-exec-34] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'

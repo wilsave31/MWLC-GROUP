@@ -1,0 +1,122 @@
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/8.5.71
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Sep 9 2021 18:43:14 UTC
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     8.5.71.0
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk1.8.0_271\jre
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       1.8.0_271-b09
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\logging.properties
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dhttp.nonProxyHosts=localhost|127.0.0.1|LAPTOP-7MAH5C0M
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+14-Oct-2021 11:56:47.718 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+14-Oct-2021 11:56:47.733 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71
+14-Oct-2021 11:56:47.733 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71
+14-Oct-2021 11:56:47.733 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\temp
+14-Oct-2021 11:56:47.733 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.2.31] con la versión APR [1.7.0].
+14-Oct-2021 11:56:47.733 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true].
+14-Oct-2021 11:56:47.733 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+14-Oct-2021 11:56:47.818 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 1.1.1l  24 Aug 2021]
+14-Oct-2021 11:56:48.172 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+14-Oct-2021 11:56:48.515 INFORMACIÓN [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+14-Oct-2021 11:56:48.558 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1675 ms
+14-Oct-2021 11:56:48.658 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+14-Oct-2021 11:56:48.658 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.71]
+14-Oct-2021 11:56:48.689 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\Futbol.xml]
+14-Oct-2021 11:56:49.808 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 11:56:50.024 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\Futbol.xml] has finished in [1.335] ms
+14-Oct-2021 11:56:50.040 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\GastosFamiliares.xml]
+14-Oct-2021 11:56:50.780 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 11:56:50.795 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\GastosFamiliares.xml] has finished in [755] ms
+14-Oct-2021 11:56:50.795 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\parqueaderoWeb2021.xml]
+14-Oct-2021 11:56:51.328 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 11:56:51.344 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\parqueaderoWeb2021.xml] has finished in [549] ms
+14-Oct-2021 11:56:51.344 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\Prestaya.xml]
+14-Oct-2021 11:56:51.729 INFORMACIÓN [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 11:56:51.729 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\Prestaya.xml] has finished in [385] ms
+14-Oct-2021 11:56:51.745 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\votacionesAndroid.xml]
+14-Oct-2021 11:56:51.745 GRAVE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+	org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@74b907a7]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4880)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5018)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\votacionesAndroid\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:747)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:705)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 13 more
+14-Oct-2021 11:56:51.745 GRAVE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error durante el despliegue del descriptor de configuración [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\votacionesAndroid.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:757)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:727)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:695)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:673)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1881)
+		at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+		at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:748)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@74b907a7]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4880)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5018)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:753)
+		... 9 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\votacionesAndroid\build\web] is not valid
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:747)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:705)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 13 more
+14-Oct-2021 11:56:51.783 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\conf\Catalina\localhost\votacionesAndroid.xml] has finished in [54] ms
+14-Oct-2021 11:56:51.783 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\docs] de la aplicación web
+14-Oct-2021 11:56:51.867 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\docs] has finished in [84] ms
+14-Oct-2021 11:56:51.867 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\examples] de la aplicación web
+14-Oct-2021 11:56:53.449 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\examples] has finished in [1.582] ms
+14-Oct-2021 11:56:53.449 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\host-manager] de la aplicación web
+14-Oct-2021 11:56:53.560 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\host-manager] has finished in [111] ms
+14-Oct-2021 11:56:53.560 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\manager] de la aplicación web
+14-Oct-2021 11:56:53.645 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\manager] has finished in [85] ms
+14-Oct-2021 11:56:53.645 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\ROOT] de la aplicación web
+14-Oct-2021 11:56:53.745 INFORMACIÓN [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Manuel\OneDrive\Documents\NetBeansProjects\Server\apache-tomcat-8.5.71\webapps\ROOT] has finished in [100] ms
+14-Oct-2021 11:56:53.761 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+14-Oct-2021 11:56:53.792 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in 5232 ms
+14-Oct-2021 11:56:57.840 INFORMACIÓN [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/Futbol]
+14-Oct-2021 11:56:58.442 INFORMACIÓN [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 11:56:58.450 INFORMACIÓN [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+14-Oct-2021 12:17:30.491 INFORMACIÓN [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/Futbol]
+14-Oct-2021 12:17:30.501 ADVERTENCIA [http-nio-8080-exec-17] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [Futbol] registró el conductor JDBC [org.postgresql.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+14-Oct-2021 12:17:31.135 INFORMACIÓN [http-nio-8080-exec-17] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 12:17:31.151 INFORMACIÓN [http-nio-8080-exec-17] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+14-Oct-2021 12:19:18.212 INFORMACIÓN [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/Futbol]
+14-Oct-2021 12:19:18.761 INFORMACIÓN [http-nio-8080-exec-21] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 12:19:18.815 INFORMACIÓN [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+14-Oct-2021 12:19:20.729 INFORMACIÓN [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Ha comenzado la recarga de Contexto [/Futbol]
+14-Oct-2021 12:19:21.320 INFORMACIÓN [http-nio-8080-exec-20] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+14-Oct-2021 12:19:21.330 INFORMACIÓN [http-nio-8080-exec-20] org.apache.catalina.core.StandardContext.reload Se ha completado la recarga de este Contexto
+14-Oct-2021 12:55:59.636 INFORMACIÓN [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+14-Oct-2021 12:55:59.636 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+14-Oct-2021 12:55:59.877 INFORMACIÓN [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+14-Oct-2021 12:55:59.957 ADVERTENCIA [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [Futbol] registró el conductor JDBC [org.postgresql.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+14-Oct-2021 12:56:00.026 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+14-Oct-2021 12:56:00.057 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
